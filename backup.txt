@@ -1,0 +1,31 @@
+ <!--
+            <tfoot>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td>
+                        M: {{ total.male }}<br>
+                        F: {{ total.female }}
+                    </td>
+                    <td>
+                        11: {{ total.11 }}<br>
+                        12: {{ total.12 }}
+                    </td>
+                    <td>
+                        XS: {{ total.xs }}<br>
+                        S: {{ total.s }}<br>
+                        M: {{ total.m }}<br>
+                        L: {{ total.l }}<br>
+                        XL: {{ total.xl }}
+                    </td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td>
+                        New: {{ total.new }}<br>
+                        Returning: {{ total.returning }}
+                    </td>
+                </tr>
+            </tfoot>
+            -->
